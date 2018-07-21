@@ -1,4 +1,4 @@
-# Radiojavan Downloader
+# Radiojavan Downloader Logo: ![Alt](images/48.png "RJD")
 - Download MP3s from Radiojavan freely! (Chrome extension)
 
 # Description
