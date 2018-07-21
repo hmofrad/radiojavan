@@ -1,0 +1,32 @@
+ {
+    "name": "Radiojavan Downloader",
+    "version": "1.0",
+    "description": "Download MP3s from Radiojavan freely!",
+	
+	"permissions": ["activeTab", "declarativeContent", "storage", "downloads", "tabs"],
+
+	"background": {
+      "scripts": ["background.js"],
+      "persistent": false
+    },
+	
+	"page_action": {
+       "default_popup": "popup.html",
+	   "default_icon": {
+         "16": "images/16.png",
+         "32": "images/32.png",
+         "48": "images/48.png",
+         "128": "images/128.png"
+      }
+    },
+	
+	"icons": {
+      "16": "images/16.png",
+      "32": "images/32.png",
+      "48": "images/48.png",
+      "128": "images/128.png"
+    },
+	
+    "manifest_version": 2
+	
+  }
