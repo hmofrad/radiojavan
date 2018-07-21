@@ -2,8 +2,9 @@
 - Download MP3s from Radiojavan freely! (Chrome extension)
 
 # Description
-- In response to removing the download button from radiojavan.com, this is a chrome extension for downloading Radionjavan.com MP3.
-- The extension is designed around the common path of media urls of the website
+- In response to removing the download button from radiojavan.com, this is a chrome extension that let you download MP3s from this website.
+- The extension is designed around the common path of media urls of the website.
+- It does not support downloading podcasts and videos.
 
 # Install
 1. Download the repo archive
