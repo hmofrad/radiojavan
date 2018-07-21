@@ -1,4 +1,4 @@
-# Radiojavan
+# Radiojavan Downloader
 - Download MP3s from Radiojavan freely! (Chrome extension)
 
 # Description
